@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRELABORATORIO_GUAMUCH_VD19", "PRELABORATORIO_GUAMUCH_VD19\PRELABORATORIO_GUAMUCH_VD19.csproj", "{147F88EB-B4C9-4B29-9DF5-8E1499FB4561}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{147F88EB-B4C9-4B29-9DF5-8E1499FB4561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147F88EB-B4C9-4B29-9DF5-8E1499FB4561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147F88EB-B4C9-4B29-9DF5-8E1499FB4561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147F88EB-B4C9-4B29-9DF5-8E1499FB4561}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3BA8FC6-86BD-42AE-A412-DE58BB61AE68}
+	EndGlobalSection
+EndGlobal

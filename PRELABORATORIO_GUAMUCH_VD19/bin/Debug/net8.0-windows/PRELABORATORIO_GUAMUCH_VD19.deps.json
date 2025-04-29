@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PRELABORATORIO_GUAMUCH_VD19/1.0.0": {
+        "runtime": {
+          "PRELABORATORIO_GUAMUCH_VD19.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRELABORATORIO_GUAMUCH_VD19/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
